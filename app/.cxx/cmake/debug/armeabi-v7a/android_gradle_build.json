@@ -1,0 +1,200 @@
+
+{
+	"buildFiles" : [ "D:/WorkSpace/AS/Opencv4Android/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\xzw\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MarkerBasedAR-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "MarkerBasedAR",
+			"buildCommand" : "C:\\Users\\xzw\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target MarkerBasedAR",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/xzw/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/xzw/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DMarkerBasedAR_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -I..\\..\\..\\..\\src\\main\\cpp\\include\\MarkerBasedAR  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -std=gnu++11 -fexceptions -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/cpp/MarkerBasedAR.cpp",
+					"workingDirectory" : "D:/WorkSpace/AS/Opencv4Android/app/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/build/jniLibs/armeabi-v7a/libMarkerBasedAR.so",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_calib3d-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_calib3d",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_calib3d.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_core-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_core",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_core.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_dnn-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_dnn",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_dnn.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_features2d-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_features2d",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_features2d.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_flann-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_flann",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_flann.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_highgui-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_highgui",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_highgui.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_imgcodecs-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_imgcodecs.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_imgproc-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_imgproc",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_imgproc.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_java3-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_java3",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_java3.so",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_ml-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_ml",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_ml.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_objdetect-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_objdetect",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_objdetect.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_photo-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_photo",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_photo.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_shape-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_shape",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_shape.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_stitching-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_stitching",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_stitching.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_superres-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_superres",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_superres.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_video-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_video",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_video.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_videoio-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_videoio",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_videoio.a",
+			"toolchain" : "1456895605"
+		},
+		"libopencv_videostab-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_videostab",
+			"buildType" : "debug",
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/jniLibs/armeabi-v7a/libopencv_videostab.a",
+			"toolchain" : "1456895605"
+		},
+		"native-lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\xzw\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/xzw/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/xzw/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -I..\\..\\..\\..\\src\\main\\cpp\\include\\MarkerBasedAR  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -std=gnu++11 -fexceptions -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/WorkSpace/AS/Opencv4Android/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "D:/WorkSpace/AS/Opencv4Android/app/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "D:/WorkSpace/AS/Opencv4Android/app/build/jniLibs/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "1456895605"
+		}
+	},
+	"toolchains" : 
+	{
+		"1456895605" : 
+		{
+			"cCompilerExecutable" : "C:/Users/xzw/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/xzw/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,1 @@
+ninja: error: '../../../../src/main/jniLibs/x86/libopencv_java3.so', needed by '../../../../build/jniLibs/x86/libnative-lib.so', missing and no known rule to make it

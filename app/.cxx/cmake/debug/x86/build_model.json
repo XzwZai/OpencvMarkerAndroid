@@ -1,0 +1,75 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\WorkSpace\\AS\\Opencv4Android",
+      "sdkFolder": "D:\\Android\\android-sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app",
+      "makeFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\.cxx",
+      "cxxFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx",
+      "ndkFolder": "D:\\Android\\android-sdk\\ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_ARM_NEON\u003dTRUE",
+      "-DANDROID_TOOLCHAIN\u003dclang"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11",
+      "-frtti",
+      "-fexceptions"
+    ],
+    "variantName": "debug",
+    "soFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "X86"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\WorkSpace\\AS\\Opencv4Android\\app\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+7	9004	0	CMakeFiles/MarkerBasedAR.dir/src/main/cpp/MarkerBasedAR.cpp.o	d676d3b5412ca0fe
+9030	9462	0	../../../../build/jniLibs/armeabi-v7a/libMarkerBasedAR.so	31f53dd7e04b8b25
+1	4679	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	86c941a2d5b4e6f0
+4680	5373	0	../../../../build/jniLibs/armeabi-v7a/libnative-lib.so	ad293165829e3356
+18	7897	0	CMakeFiles/MarkerBasedAR.dir/src/main/cpp/MarkerBasedAR.cpp.o	d676d3b5412ca0fe
+7898	9040	0	../../../../build/jniLibs/armeabi-v7a/libMarkerBasedAR.so	31f53dd7e04b8b25
+19	4843	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	86c941a2d5b4e6f0
+4843	5201	0	../../../../build/jniLibs/armeabi-v7a/libnative-lib.so	ad293165829e3356

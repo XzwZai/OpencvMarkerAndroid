@@ -1,0 +1,4 @@
+D:/WorkSpace/AS/Opencv4Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+D:/WorkSpace/AS/Opencv4Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/MarkerBasedAR.dir
+D:/WorkSpace/AS/Opencv4Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/WorkSpace/AS/Opencv4Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

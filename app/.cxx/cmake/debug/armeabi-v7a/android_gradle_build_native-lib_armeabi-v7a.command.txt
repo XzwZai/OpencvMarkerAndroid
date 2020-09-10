@@ -1,0 +1,8 @@
+Executable : C:\Users\xzw\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+D:\WorkSpace\AS\Opencv4Android\app\.cxx\cmake\debug\armeabi-v7a
+--target
+native-lib
+jvmArgs : 
+

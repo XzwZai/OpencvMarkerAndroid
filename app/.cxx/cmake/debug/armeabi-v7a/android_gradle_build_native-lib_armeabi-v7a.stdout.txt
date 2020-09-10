@@ -1,0 +1,23 @@
+[1/2] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o
+In file included from D:\WorkSpace\AS\Opencv4Android\app\src\main\cpp\native-lib.cpp:1:
+In file included from D:\WorkSpace\AS\Opencv4Android\app\src\main\cpp/native-lib.h:2:
+In file included from ../../../../src/main/cpp/include/MarkerBasedAR\MarkerDetector.h:3:
+In file included from ../../../../src/main/cpp/include/MarkerBasedAR/Marker.h:1:
+../../../../src/main/cpp/include/MarkerBasedAR/Tools.h:98:2: warning: control reaches end of non-void function [-Wreturn-type]
+        }
+        ^
+In file included from D:\WorkSpace\AS\Opencv4Android\app\src\main\cpp\native-lib.cpp:1:
+In file included from D:\WorkSpace\AS\Opencv4Android\app\src\main\cpp/native-lib.h:2:
+../../../../src/main/cpp/include/MarkerBasedAR\MarkerDetector.h:176:25: warning: logical not is only applied to the left hand side of this comparison [-Wlogical-not-parentheses]
+                    if (!detectedMarkers.size() == 0)
+                        ^                       ~~
+../../../../src/main/cpp/include/MarkerBasedAR\MarkerDetector.h:176:25: note: add parentheses after the '!' to evaluate the comparison first
+                    if (!detectedMarkers.size() == 0)
+                        ^
+                         (                          )
+../../../../src/main/cpp/include/MarkerBasedAR\MarkerDetector.h:176:25: note: add parentheses around left hand side expression to silence this warning
+                    if (!detectedMarkers.size() == 0)
+                        ^
+                        (                      )
+2 warnings generated.
+[2/2] Linking CXX shared library ..\..\..\..\build\jniLibs\armeabi-v7a\libnative-lib.so
